@@ -1,3 +1,4 @@
+#SMART FINANCE
 🚀 Assistente Pessoal Inteligente (AI-Driven Management System):
 Um sistema de gerenciamento pessoal de ponta, alimentado por inteligência artificial, projetado para centralizar sua vida financeira, anotações, checklists e planejamentos de compras. Este projeto integra a capacidade de análise do Google Gemini com uma interface moderna e intuitiva.
 
